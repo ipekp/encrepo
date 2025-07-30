@@ -1,2 +1,5 @@
-.encfs6.xml
-*.swp
+# Ignore all files
+*
+
+# Allow only .gpg files
+!*.gpg
